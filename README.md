@@ -6,7 +6,7 @@ This tool allows you to display your WhatsApp chats in appealing HTML documents 
 
 ## Example:
 This is the exported _chat.txt file:  
-![image](https://github.com/aquamarine-guy/WhatsApp-Chat-Converter/assets/174265589/1880e191-99ac-4a44-be71-887ac58a16e4)
+![image](https://github.com/aquamarine-guy/WhatsApp-Chat-Converter/assets/174265589/83bc713b-13a3-4498-9330-94239b4f6fce)
 
 Which will transform into this more visualized HTML or optionally also a PDF file that almost looks exactly like a real WhatsApp chat:  
 ![image](https://github.com/aquamarine-guy/WhatsApp-Chat-Converter/assets/174265589/710430b5-4a11-491e-af44-7a60ffd62937)
