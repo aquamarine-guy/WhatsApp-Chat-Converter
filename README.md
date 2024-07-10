@@ -48,7 +48,10 @@ The following Python standard libraries are used and do not need to be installed
 - Set the output directory.
 - Enable or disable the option to embed CSS in HTML.
 - Enable or disable the option to create PDF files (only available if you enable the option to embed the CSS into the HTML file).
-- Click "Start" to begin the conversion process.
+- Click "Start" to begin the conversion process.<br>
+
+![image](https://github.com/aquamarine-guy/WhatsApp-Chat-Converter/assets/174265589/f8c36837-68ff-4e1c-bd26-57fc5e01569d)
+
 
 ## German-Version of the Script
 *cooming soon*
