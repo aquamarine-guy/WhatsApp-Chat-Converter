@@ -52,6 +52,9 @@ The following Python standard libraries are used and do not need to be installed
 
 ![image](https://github.com/aquamarine-guy/WhatsApp-Chat-Converter/assets/174265589/f8c36837-68ff-4e1c-bd26-57fc5e01569d)
 
+## Future Improvements
+Please let me know if I should add anything or if you have ideas for future projects you want to see. <br>
+I want to improve my coding and need ideas/challenges to tackle. Your feedback and suggestions are highly appreciated!
 
 ## German-Version of the Script
 *cooming soon*
