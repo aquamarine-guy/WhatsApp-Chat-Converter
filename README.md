@@ -4,7 +4,7 @@
 A Python tool to convert WhatsApp chat logs into HTML and PDF formats.  
 This tool allows you to display your WhatsApp chats in appealing HTML documents and optionally convert them to PDF files.
 
-## Example:
+## Example
 This is the exported _chat.txt file:  
 ![image](https://github.com/aquamarine-guy/WhatsApp-Chat-Converter/assets/174265589/83bc713b-13a3-4498-9330-94239b4f6fce)
 
