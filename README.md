@@ -57,5 +57,5 @@ Please let me know if I should add anything or if you have ideas for future proj
 I want to improve my coding and need ideas/challenges to tackle. Your feedback and suggestions are highly appreciated!
 
 ## German-Version of the Script
-*coming soon*
+*coming soon*<br>
 (optionally just change the word "Attachment" in line 60 of the script to "Anhang", than everything should work again even in german)
